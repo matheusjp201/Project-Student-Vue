@@ -1,4 +1,4 @@
-# my-project
+# Project Students App
 
 ## Project setup
 ```
